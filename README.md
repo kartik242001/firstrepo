@@ -1,2 +1,2 @@
 # firstrepo
-This is my first Git repositry Author Kartik Sharma 
+This is my first Git repository Author - Kartik Sharma 
